@@ -1,0 +1,12 @@
+1.Created repository names 
+541-Lab3
+
+2.In Git Bash
+ git clone https://github.com/artion33/541-Lab3.git
+
+3. navigate to cloned folder :
+   a.open git bash type LS
+   b.cd 541-Lab3 
+
+4.Creating New Branch:In gitbash
+   git checkout -b Markdown
