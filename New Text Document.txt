@@ -10,3 +10,6 @@
 
 4.Creating New Branch:In gitbash
    git checkout -b Markdown
+   git status
+
+git push --set-upstream origin Markdown
